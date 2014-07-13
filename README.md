@@ -1,4 +1,6 @@
 SolarEfficiency
 ===============
 
-Solar panel geometric efficiency calculations
+
+Solar panel optimal orientation: geometric efficiency calculations
+
